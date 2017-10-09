@@ -1,6 +1,0 @@
-[package]
-name = "knock-knock"
-version = "0.1.0"
-authors = ["The Habitat Maintainers <humans@habitat.sh>"]
-
-[dependencies]
